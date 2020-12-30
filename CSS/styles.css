@@ -1,0 +1,52 @@
+body {
+  background-color: #EAF6F6;
+}
+
+img {
+  background-color: #EAF6F6;
+}
+
+/* hr {
+
+    border-style: none;
+    border-top-style: dotted;
+    border-color: lightgrey;
+    border-width: 5px;
+    height: 0%;
+    width: 4%;
+      }
+*/
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+/**************CLASS SELECTORS**************/
+.firstHR {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: red;
+  border-width: 5px;
+  width: 4%;
+}
+
+.secondHR {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 4%;
+}
+
+.thirdHR {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: blue;
+  border-width: 5px;
+  width: 4%;
+}
+
+/**************ID SELECTORS**************/
